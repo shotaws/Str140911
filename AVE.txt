@@ -1,0 +1,13 @@
+CbrApp_cbr1_BytesReceived 804650.0
+
+CbrApp_cbr1_BytesSent 1245300.0
+
+CbrApp_cbr1_DuplicatePacketOutOfWindowErrors 0.0
+
+CbrApp_cbr1_DuplicatePacketsReceived 0.0
+
+CbrApp_cbr1_PacketsReceived 8046.5
+
+CbrApp_cbr1_PacketsSent 12453.0
+
+CbrApp_cbr1_EndToEndDelay 3.0208855
